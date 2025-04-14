@@ -1,0 +1,42 @@
+/* Element Selector */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e8f0fe;
+}
+
+#main-heading {
+    color: #1e3a8a;
+    border-bottom: 3px solid #3b82f6;
+}
+
+.description {
+    color: #1f2937;
+    font-size: 20px;
+}
+
+/* Image Styling */
+.styled-image {
+    border: 5px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    display: block;
+    max-width: 100%;
+}
+
+/* Box with Padding, Margin, Border */
+.box {
+    background-color: #fff;
+    border: 2px dashed #8e44ad;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+.about-me {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Flexbox Layout */
